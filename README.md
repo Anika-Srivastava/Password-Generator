@@ -74,18 +74,18 @@ Generated Password: A7@Kp2#xL9!q
 
 
 ## 📦 Requirements
--🐍 Python 3.x
--🚫 No external libraries are required.
--🔧 The project uses Python's built-in random and string modules.
+- 🐍 Python 3.x
+- 🚫 No external libraries are required.
+- 🔧 The project uses Python's built-in random and string modules.
 
 
 ## 🔮 Future Improvements
--🖥️ Add a graphical user interface (GUI)
--💪 Add password strength checking
--📋 Add copy-to-clipboard functionality
--🌐 Create a web version using HTML, CSS, and JavaScript
--🔢 Add an option to generate multiple passwords
--⚙️ Add customizable password rules and preferences
+- 🖥️ Add a graphical user interface (GUI)
+- 💪 Add password strength checking
+- 📋 Add copy-to-clipboard functionality
+- 🌐 Create a web version using HTML, CSS, and JavaScript
+- 🔢 Add an option to generate multiple passwords
+- ⚙️ Add customizable password rules and preferences
 
 ## 👩‍💻 Author
 
