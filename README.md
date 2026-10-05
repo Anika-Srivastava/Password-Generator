@@ -31,18 +31,24 @@ Password-Generator/
 
 ### 📌 Prerequisites
 
-Make sure Python 3.x is installed on your system.
-You can check your Python version using:
-python --version
+- Make sure Python 3.x is installed on your system ([download here](https://www.python.org/downloads/))
 
-📥 Clone the Repository
-git clone https://github.com/Anika-Srivastava/Password-Generator.git
+## Installation & Usage
 
-📂 Navigate to the Project Folder
-cd Password-Generator
+📥 Clone the Repository:
+```bash
+git clone https://github.com/Anika-Srivastava/<your-repo-name>.git
+```
 
-▶️ Run the Program
-python password-generator.py
+📂 Navigate to the Project Folder:
+```bash
+cd <your-repo-name>
+```
+
+▶️ Run the Program:
+```bash
+python <your-repo-name>.py
+```
 
 ## ⚙️ How It Works
 
