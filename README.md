@@ -20,39 +20,42 @@ A simple and customizable **Python Password Generator** that creates passwords u
 
 ## 📁 Project Structure
 
-~~~text
-Password generator/
+Password-Generator/
 │
 ├── password-generator.py
 ├── README.md
 ├── requirements.txt
 └── .gitignore
 
-🚀 Getting Started
-📌 Prerequisites
+## 🚀 Getting Started
+
+### 📌 Prerequisites
 
 Make sure Python 3.x is installed on your system.
 
-You can check your Python version using: python --version
+You can check your Python version using:
+
+```bash
+python --version
 
 📥 Clone the Repository
 git clone https://github.com/Anika-Srivastava/Password-Generator.git
-
 📂 Navigate to the Project Folder
 cd Password-Generator
 ▶️ Run the Program
 python password-generator.py
 
 ⚙️ How It Works
-🔢 The program asks the user to enter the desired password length.
-📋 The user selects the types of characters to include:
-Letters
-Digits
-Special characters
-🎯 Multiple character types can be selected at the same time.
-🎲 The program randomly selects characters from the chosen character sets.
-🔐 A password is generated according to the selected length and character types.
-🖥️ The generated password is displayed in the terminal.
+
+1. 🔢 The program asks the user to enter the desired password length.
+2. 🔤 The user selects the character types to include:
+   - Letters
+   - Digits
+   - Special characters
+3. 🎯 Multiple character types can be selected at the same time.
+4. 🎲 The program randomly selects characters from the chosen character sets.
+5. 🔐 A password is generated according to the selected length and character types.
+6. 💻 The generated password is displayed in the terminal.
 
 💡 Example
 Enter password length: 12
@@ -65,14 +68,18 @@ Choose character set for password from these:
 
 Enter your choices separated by spaces (e.g. 1 2 3): 1 2 3
 
-Generated Password: A7@kP2#xL9!q
+Generated Password: A7@Kp2#xL9!q
 
 💡 The generated password will be different each time because characters are selected randomly.
+**Note:** The password shown is only an example. Your actual program will generate a different password each time.
+
 
 📦 Requirements
 🐍 Python 3.x
 🚫 No external libraries are required.
-The project uses Python's built-in random and string modules.
+🔧 The project uses Python's built-in random and string modules.
+
+
 🔮 Future Improvements
 🖥️ Add a graphical user interface (GUI)
 💪 Add password strength checking
@@ -81,10 +88,9 @@ The project uses Python's built-in random and string modules.
 🔢 Add an option to generate multiple passwords
 ⚙️ Add customizable password rules and preferences
 
-
 👩‍💻 Author
 
-Anshika-Srivastava
+Anshika Srivastava
 
 B.Tech CSE (Artificial Intelligence & Machine Learning) Student
 
