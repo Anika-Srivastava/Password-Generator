@@ -35,7 +35,7 @@ Make sure Python 3.x is installed on your system.
 
 You can check your Python version using:
 
-```bash
+bash
 python --version
 
 ##  📥 Clone the Repository
