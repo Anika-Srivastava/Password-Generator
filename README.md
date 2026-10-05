@@ -38,14 +38,16 @@ You can check your Python version using:
 ```bash
 python --version
 
-📥 Clone the Repository
+##  📥 Clone the Repository
 git clone https://github.com/Anika-Srivastava/Password-Generator.git
-📂 Navigate to the Project Folder
+
+## 📂 Navigate to the Project Folder
 cd Password-Generator
-▶️ Run the Program
+
+## ▶️ Run the Program
 python password-generator.py
 
-⚙️ How It Works
+## ⚙️ How It Works
 
 1. 🔢 The program asks the user to enter the desired password length.
 2. 🔤 The user selects the character types to include:
@@ -57,7 +59,7 @@ python password-generator.py
 5. 🔐 A password is generated according to the selected length and character types.
 6. 💻 The generated password is displayed in the terminal.
 
-💡 Example
+## 💡 Example
 Enter password length: 12
 
 Choose character set for password from these:
@@ -74,13 +76,13 @@ Generated Password: A7@Kp2#xL9!q
 **Note:** The password shown is only an example. Your actual program will generate a different password each time.
 
 
-📦 Requirements
+## 📦 Requirements
 🐍 Python 3.x
 🚫 No external libraries are required.
 🔧 The project uses Python's built-in random and string modules.
 
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 🖥️ Add a graphical user interface (GUI)
 💪 Add password strength checking
 📋 Add copy-to-clipboard functionality
@@ -88,7 +90,7 @@ Generated Password: A7@Kp2#xL9!q
 🔢 Add an option to generate multiple passwords
 ⚙️ Add customizable password rules and preferences
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Anshika Srivastava
 
