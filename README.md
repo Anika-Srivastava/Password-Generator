@@ -1,6 +1,6 @@
-### 🔐 [Password Generator](https://github.com/Anshika-Srivastava-28/Password-Generator)
+# 🔐 Password Generator
 
-A Python-based password generator that creates customizable passwords using letters, digits, and special characters.
+A simple and customizable **Python Password Generator** that creates passwords using letters, digits, and special characters based on the user's preferences.
 
 **Technologies:** Python
 
